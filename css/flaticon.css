@@ -3,14 +3,14 @@
   	Creation date: 22/06/2016 15:41
   	*/
 
-    @font-face {
-      font-family: "Flaticon";
-      src: url("/fonts/Flaticon.woff2") format("woff2"),
-           url("/fonts/Flaticon.woff") format("woff"),
-           url("/fonts/Flaticon.ttf") format("truetype");
-      font-weight: normal;
-      font-style: normal;
-    }
+@font-face {
+  font-family: "Flaticon";
+  src: url("/fonts/Flaticon.woff2") format("woff2"),
+        url("/fonts/Flaticon.woff") format("woff"),
+        url("/fonts/Flaticon.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
