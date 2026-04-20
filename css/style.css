@@ -933,12 +933,13 @@ div#preloader {
     content:"";
     z-index: -1;
 }
-.service-icon span {
-    font-size: 60px;
+.service-icon iconify-icon {
+    font-size: 60px; 
     line-height: 60px;
     margin-bottom: 20px;
     display: inline-block;
     color: #c36f09;
+    stroke-width: 1.2;        
 }
 .service-content h4 {
     display: inline-block;
